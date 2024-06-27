@@ -1,4 +1,4 @@
-// User Information
+// 
 // Name: [Denzel Ohene Sakyi]
 // Contact: [Denzel_OheneSakyi@student.uml.edu]
 //Sites used to help me out to write out my functions
