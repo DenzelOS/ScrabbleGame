@@ -1,0 +1,54 @@
+/** User Information
+// Name: [Denzel Ohene Sakyi]
+// Contact: [Denzel_OheneSakyi@student.uml.edu]
+**/
+#tile-rack {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    background-image: url('../images/scrabble-tile-holder-406774_640.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    align-items: center;
+    padding: 0 20px;
+}
+#scrabble-board-container {
+    position: relative;
+    width: 700px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#scrabble-board {
+    display: flex;
+    justify-content: space-between;
+}
+
+.board-square {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    border: 1px solid black;
+}
+
+.bonus-double {
+    background-image: url('../images/double_letter.png');
+}
+
+.bonus-triple {
+    background-image: url('../images/double_word.png');
+}
+
+.tile {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    cursor: pointer;
+}
+
+#score-display {
+    margin-top: 20px;
+}
