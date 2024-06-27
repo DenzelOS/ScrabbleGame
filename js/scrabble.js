@@ -2,6 +2,7 @@
 // Name: [Denzel Ohene Sakyi]
 // Contact: [Denzel_OheneSakyi@student.uml.edu]
 //Sites used to help me out to write out my functions
+//https://www.w3schools.com/
 // Log the position of the tile after it's dropped
 // Source: https://stackoverflow.com/questions/885144/how-to-get-current-position-of-an-image-in-jquery
 // Function to add an image at specific coordinates
